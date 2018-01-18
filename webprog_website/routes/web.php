@@ -19,7 +19,7 @@ Route::get('/index', 'IndexController@showIndex')->name('index');
 Route::get('/blog', 'BlogController@showBlog')->name('blog');
 Route::get('/contacts', 'ContactsController@showContacts')->name('contacts');
 Route::get('/portfolio', 'PortfolioController@showPortfolio')->name('portfolio');
-Route::get('/zamboanga_delnorte', 'ZamdelnorteController@showZamdelnorte')->name('zamdelnorte');
-Route::get('/zamboanga_delsur', 'ZamdelsurController@showZamdelsur')->name('zamdelsur');
-Route::get('/zamboanga_sibugay', 'ZamsibugayController@showZamsibugay')->name('zamsibugay');
+Route::get('/zamboanga_delnorte', 'ProvincesController@showZamdelnorte');
+Route::get('/zamboanga_delsur', 'ProvincesController@showZamdelsur')->name('zamdelsur');
+Route::get('/zamboanga_sibugay', 'ProvincesController@showZamsibugs')->name('zamsibugay');
 

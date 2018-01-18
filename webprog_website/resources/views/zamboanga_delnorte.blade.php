@@ -64,7 +64,7 @@
 							<li><a href="index.html">Home</a></li>
 							<li class="current"><a href=" ">Provinces</a>
 									<ul>
-										<li><a href="{{ route('zamdelnorte') }}">Zamboanga del Norte</a></li>
+										<li><a href="{{ action('ProvincesController@showZamdelnorte') }}">Zamboanga del Norte</a></li>
 										<li><a href="{{ route('zamdelsur') }}">Zamboanga del Sur</a>
 											<!--<ul>
 												<li><a href="#">Lorem ipsum</a></li>
