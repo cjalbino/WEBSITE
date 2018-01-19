@@ -51,7 +51,7 @@
 			<div class="row">
 				<div class="grid_12">
 					<div class="social">
-						<a href="#"><span class="bd-ra fa fa-facebook"></span></a>
+						<a href="https://www.facebook.com/"><span class="bd-ra fa fa-facebook"></span></a>
 						<a href="#"><span class="bd-ra fa fa-tumblr"></span></a>
 						<a href="#"><span class="bd-ra fa fa-google-plus"></span></a>
 					</div>
