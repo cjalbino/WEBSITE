@@ -99,7 +99,7 @@
 				</div>
 				<div class="item" data-src="images/zheader4.jpg">
 					<div class="camera_caption fadeIn">
-						<h3>We work for Your Relax</h3>
+						<h3>Relax</h3>
 					</div>
 				</div>
 				<div class="item" data-src="images/zheader4.jpg">
