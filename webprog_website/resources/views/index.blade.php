@@ -27,6 +27,12 @@
 			}
 		});
 	</script>
+	<script>(function(d, s, id){
+		var js,fjs-
+
+	})
+		
+	</script>
 	<!--<![endif]-->
 	<!--[if lt IE 8]>
 	<div style=' clear: both; text-align:center; position: relative;'>
@@ -88,7 +94,7 @@
 			<div id="camera_wrap">
 				<div class="item" data-src="images/zheader4.jpg">
 					<div class="camera_caption fadeIn">
-						<h3>We’ll make you noticeable</h3>
+						<h3>Unwind</h3>
 					</div>
 				</div>
 				<div class="item" data-src="images/zheader4.jpg">
