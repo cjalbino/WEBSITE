@@ -104,7 +104,7 @@
 				</div>
 				<div class="item" data-src="images/zheader4.jpg">
 					<div class="camera_caption fadeIn">
-						<h3>Best Design</h3>
+						<h3>Smile! :></h3>
 					</div>
 				</div>
 			</div>
