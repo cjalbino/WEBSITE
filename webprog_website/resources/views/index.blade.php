@@ -170,7 +170,7 @@
 			<div class="row">
 				<div class="grid_4">
 					<header>
-						<h2><span>WHAT TO DO & WHERE TO GO</span></h2>
+						<h2><span>WHAT TO DO, & WHERE TO GO?</span></h2>
 					</header>
 					<div class="img_block"><img src="images/3.jpg" alt=""></div>
 					<p class="first">Go island hopping and hit the beaches of Sibuguey Bay and Litayon Island. Feel the fine grains of white sand slotting in between your toes or simply frolic on the pristine beach waters. You can also catch the sight of magnificent sunset in Gubawang Beach, Naga or in Looc Labuan. If overnight swimming is your thing, then you might want to head to Anduhol Beach Resort in Ipil as well. Here you can witness kaleidoscopic sunrise, a view that will definitely make your sun-frying trip all worth it.</p>
