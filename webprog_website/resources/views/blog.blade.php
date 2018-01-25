@@ -151,7 +151,7 @@
 					</article>
 					<article>
 						<header>
-							<h4><a href="#">Givamus at magna non nuncerto limonit </a></h4>
+							<h4><a href="#">I dont have anything to write, just a lost boy wandering on the wilderness. </a></h4>
 						</header>
 						<div class="img_block"><img src="images/index-3_img-2.jpg" alt></div>
 						<p class="first">Johoncus. Aliquam nibh antegestas id ictum ado. Praesenterto faucibus maleada faucibusnec laeetert metus id laoreet wer.</p>
