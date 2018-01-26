@@ -71,7 +71,7 @@
 										<li><a href="{{ route('zamdelsur') }}">[Zamboanga del Sur]</a>
 									
 										</li>
-										<li><a href="{{ route('zamsibugay') }}">Zamboanga Sibugay</a></li>
+										<li><a href="{{ route('zamsibugay') }}">[Zamboanga Sibugay]</a></li>
 									</ul>
 								</li>
 							<li><a href="{{ route('zamsibugay') }}">Destination</a></li>
