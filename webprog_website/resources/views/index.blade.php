@@ -68,7 +68,7 @@
 							<li><a href=" ">Provinces</a>
 									<ul>
 										<li><a href="{{ url('zamboanga_delnorte') }}">[Zamboanga del Norte]</a></li>
-										<li><a href="{{ route('zamdelsur') }}">Zamboanga del Sur</a>
+										<li><a href="{{ route('zamdelsur') }}">[Zamboanga del Sur]</a>
 									
 										</li>
 										<li><a href="{{ route('zamsibugay') }}">Zamboanga Sibugay</a></li>
