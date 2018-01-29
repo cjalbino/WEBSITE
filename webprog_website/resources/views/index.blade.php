@@ -183,7 +183,9 @@
 					</header>
 					<!--<h4><a href="#">10 Nov</a></h4>-->
 					<div class="img_block"><img src="images/2.jpg" alt=""></div>
-					<p>The highly charged street dance showdown highlighted the main program of the Zamboanga Hermosa Festival 2015 Saturday afternoon at the Paseo del Mar with 7 groups competing for the coveted title./p>
+					<p>The highly charged street dance showdown highlighted the main program of the Zamboanga 
+
+					</p>
 					<a href="#" class="btn">more</a>
 				</div>
 			</div>
@@ -204,7 +206,8 @@ Step into the majestic Sibugay and you will be welcomed with a play of diversifi
 				<div class="grid_7 offset_1">
 					<!--<h4><a href="#">10 Nov</a></h4>-->
 					<div class="img_block"><img src="images/5.jpg" alt=""></div>
-					<p>The Sinunuc Barangay Council emerged as champion  in the open competition besting 2 other contestants and received P150,000 cash  prize for its amazing choreographed routines. Placing second was the Zamboanga City High School main with P100,000 cash prize while Don Pablo Lorenzo Memorial High School finished third with P50,000/p>
+					<p>The Sinunuc Barangay Council emerged as champion  in the open competition besting 2 other contestants and received P150,000 cash  prize for its amazing choreographed routines. Placing second was the Zamboanga City High School main with P100,000 cash prize while Don Pablo Lorenzo Memorial High School finished third with P50,000. Yeup, thats, our place is great!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+					</p>
 					<a href="#" class="btn">more</a>
 				</div>
 			</div>
