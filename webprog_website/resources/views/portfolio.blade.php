@@ -97,7 +97,7 @@
 					<div class="grid_4">
 						<div class="img_block"><a href="images/index-2_img-1-big.jpg"><img src="images/index-2_img-1.jpg" alt="Services"><i></i></a></div>
 						<article>
-							<h4>Bliquam nibh ante</h4>
+							<h4>Anderson Group Philippines</h4>
 							<p>Dorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis erat mattis neque facilisis, sit amet ultricies erat rutrum. Cras facilisis, nulla vel viverra auctor, leo magna sodales felis, quis malesuada nibh odio ut</p>
 						</article>
 					</div>
