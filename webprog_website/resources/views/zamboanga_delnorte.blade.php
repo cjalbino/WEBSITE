@@ -239,7 +239,7 @@ Zamboanga del Norte is subdivided into 25 municipalities and 2 cities. These are
 									<td><div class="progress progress-xs progress-striped active">
 											<div class="progress-bar progress-bar-success" style="width: 39%"></div>
 										</div></td>
-									<td>A third class municipality in the province of Zamboanga del Norte, Philippines. According to the 2015 census, it has a population of 39,347 people.</td>
+									<td>A third class municipality in the province of Zamboanga del Norte, Philippines. According to the 2015 census, it has a population of 39,347 people. So, dont miss this out! go in here, now!</td>
 								</tr>
 								<tr>
 									<td>7107</td>
